@@ -5,8 +5,8 @@ package FourA;
 	        AuctionEvent auctionEvent = new AuctionEvent();
 
 	        // Create participants
-	        Participant participant1 = new Participant("Charlie");
-	        Participant participant2 = new Participant("Dana");
+	        Participant participant1 = new Participant("Joshi");
+	        Participant participant2 = new Participant("Deepu");
 
 	        // Register participants for auction notifications
 	        auctionEvent.addListener(participant1);
