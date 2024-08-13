@@ -3,8 +3,8 @@ package fiveA;
 	public class SystemApp {
 	    public static void main(String[] args) {
 	        // Create attendees
-	        Attendee attendee1 = new Attendee("John", "A001");
-	        Attendee attendee2 = new Attendee("Jane", "A002");
+	        Attendee attendee1 = new Attendee("Joshi", "A001");
+	        Attendee attendee2 = new Attendee("Josh", "A002");
 
 	        // Create modules
 	        Module module1 = new Module("M101", "Computer Science");
