@@ -19,7 +19,6 @@ package FourA;
 	       
 	        auctionEvent.removeListener(participant1);
 
-	        // Another auction event after unsubscription
 	        auctionEvent.newItem("Classic Car");
 	    }
 	}
